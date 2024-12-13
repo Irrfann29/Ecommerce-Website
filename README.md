@@ -1,2 +1,2 @@
 # Ecommerce-Website
-A Ecommerce Website Using Tailwind CSS
+A Ecommerce Website Navigation Bar And Hero Section Using Tailwind CSS
